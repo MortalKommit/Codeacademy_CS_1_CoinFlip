@@ -24,10 +24,10 @@ User Story: As a user I want to be able to guess the outcome of a 6-sided dice r
 
 ### Dependency Installation instructions
 Can be installed via pipenv (pipenv install) in the directory containing the pipfile
-OR
+OR  
 pip install -r requirements.txt
 
-### Current features that the project implements
+### Features that the project implements
 1. Choice between tossing a coin or rolling a die between each game
 2. A random result from random.org api (atmospheric randomness) or python's random module   
 if the connection can't be made
